@@ -1,6 +1,9 @@
 # Release Filmes
 
+Conhecendo todo o projeto:
 ![Release Filmes](assets/release-filmes.gif)
+
+Todas as telas do projeto:
 ![Release Filmes](assets/capatura_1.jpg)
 ![Release Filmes](assets/capatura_2.jpg)
 ![Release Filmes](assets/capatura_3.jpg)
