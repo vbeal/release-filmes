@@ -1,5 +1,6 @@
 # Release Filmes
 
+![Release Filmes](assets/release-filmes.gif)
 ![Release Filmes](assets/capatura_1.jpg)
 ![Release Filmes](assets/capatura_2.jpg)
 ![Release Filmes](assets/capatura_3.jpg)
