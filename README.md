@@ -1,10 +1,10 @@
 # Release Filmes
 
 ![Release Filmes](assets/capatura_1.jpg)
-(assets/capatura_2.jpg)
-(assets/capatura_3.jpg)
-(assets/capatura_4.jpg)
-(assets/capatura_5.jpg)
+![Release Filmes](assets/capatura_2.jpg)
+![Release Filmes](assets/capatura_3.jpg)
+![Release Filmes](assets/capatura_4.jpg)
+![Release Filmes](assets/capatura_5.jpg)
 
 Release Filmes é uma aplicação web desenvolvida em React que consome uma API externa para fornecer informações sobre filmes. A aplicação permite aos usuários realizar operações de criação, leitura, atualização e exclusão (CRUD) de registros de filmes, oferecendo uma interface intuitiva e responsiva.
 
